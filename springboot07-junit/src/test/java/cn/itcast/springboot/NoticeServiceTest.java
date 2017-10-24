@@ -25,4 +25,5 @@ public class NoticeServiceTest {
 	public void findAll(){
 		System.out.println(noticeService.findAll());
 	}
+	System.out.println("12121");
 }
